@@ -1,9 +1,11 @@
+-- Row counts
 SELECT COUNT(*) AS orders FROM orders;
 SELECT COUNT(*) AS order_items FROM order_items;
 SELECT COUNT(*) AS payments FROM payments;
 SELECT COUNT(*) AS products FROM products;
 SELECT COUNT(*) AS customers FROM customers;
 
+-- Orphan checks
 SELECT COUNT(*) AS orders_without_payments
 FROM orders o
 LEFT JOIN payments p ON p.order_id = o.order_id
