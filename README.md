@@ -1,9 +1,9 @@
-#E‑commerce Marketplace Analysis: Revenue Growth, Customer Behavior and Delivery Performance
-
+# Marketplace Analytics: From Sales Data to Business Decisions
 
 End‑to‑end business analysis project transforming transactional marketplace data into real operational decisions.
 
 The objective of this project is to investigate how the business grows, what drives revenue, and how customer behavior and logistics impact performance.
+
 
 ---
 
