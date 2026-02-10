@@ -1,5 +1,23 @@
--- Analysis: New vs returning customers
--- Objective: understand retention behavior
+/*
+Analysis: Customer Acquisition
+
+Business Question:
+Is company growth driven by new or returning customers?
+
+Objective:
+Measure the number of new customers per month to understand acquisition behavior.
+
+Tables Used:
+- orders
+- customers
+
+Metric Created:
+- Monthly New Customers
+
+Author: Ailton 
+Project: GlobalShop E-commerce Analytics
+*/
+
 
 SELECT
     DATE_FORMAT(first_purchase, '%Y-%m') AS cohort_month,
