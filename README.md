@@ -1,6 +1,7 @@
-# E‑commerce Marketplace Analysis: Revenue Growth, Customer Behavior and Delivery Performance
+#E‑commerce Marketplace Analysis: Revenue Growth, Customer Behavior and Delivery Performance
 
-End‑to‑end data analysis project simulating the data team of an international marketplace.
+
+End‑to‑end business data analysis simulating real decisions made by a marketplace data team.
 
 The objective of this project is to investigate how the business grows, what drives revenue, and how customer behavior and logistics impact performance.
 
