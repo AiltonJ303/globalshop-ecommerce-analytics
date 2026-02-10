@@ -14,7 +14,7 @@ Tables Used:
 Metric Created:
 - Monthly Revenue (sum of payments grouped by month)
 
-Author: Ailton & João
+Author: Ailton 
 Project: GlobalShop E-commerce Analytics
 */
 
