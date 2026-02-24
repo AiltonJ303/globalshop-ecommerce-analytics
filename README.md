@@ -159,10 +159,10 @@ The marketplace demonstrates sustainable and scalable growth supported by custom
 
 # 📷 Dashboard Preview
 
-## ![Executive Dashboard](images/dashboard_page1.png)
+## ![Executive Dashboard]
 <img width="1317" height="737" alt="Captura de tela 2026-02-24 162427" src="https://github.com/user-attachments/assets/8a9055b9-bb37-4839-9972-c4a71be6bef1" />
 
-## [Business Insights](images/dashboard_page2.png)
+## [Business Insights]
 <img width="1325" height="732" alt="Captura de tela 2026-02-24 162448" src="https://github.com/user-attachments/assets/63b8724a-a8c4-49f3-9e42-42faacabfac2" />
 
 ---
